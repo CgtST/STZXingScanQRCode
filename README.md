@@ -1,2 +1,2 @@
 # STZXingScanQRCode
-用ZXing框架写的二维码扫描
+用ZXing框架写的二维码，条形码扫描
